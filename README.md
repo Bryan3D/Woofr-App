@@ -4,6 +4,8 @@ WOOFR 🐾
 
 WOOFR is a social media platform designed for you and your furry friend. The dog.
 
+[Woofr Web Site Link](https://woofr2.herokuapp.com/)
+
 ## Installation
 
 - Run an npm install to get all dependencies
